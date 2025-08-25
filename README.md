@@ -79,6 +79,8 @@ In your browser:
    • Higher → more specific (fewer false positives)  
 3. Optionally enable **Test-time augmentation** (simple horizontal flip vote).
 4. See the **saliency overlay** (“Why did the model predict this?”).
+<img width="1238" height="1155" alt="image" src="https://github.com/user-attachments/assets/5534592c-6f8f-493f-95b5-727aca8be3e2" />
+<img width="1077" height="1129" alt="image" src="https://github.com/user-attachments/assets/610e1d2c-ebb8-4537-9ea3-ae747bd702bb" />
 
 ---
 
